@@ -1,0 +1,6 @@
+$(OBJECTS_DIR)/MMASolver.cpp.dep: \
+MMASolver.cpp \
+MMASolver.h \
+
+MMASolver.h :
+

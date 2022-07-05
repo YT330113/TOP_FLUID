@@ -1,0 +1,7 @@
+SOURCE = \
+TOP_FLUID.C \
+adjointOutletPressurePower/adjointOutletPressurePowerFvPatchScalarField.C \
+adjointOutletVelocityPower/adjointOutletVelocityPowerFvPatchVectorField.C \
+adjointOutletPressure/adjointOutletPressureFvPatchScalarField.C \
+adjointOutletVelocity/adjointOutletVelocityFvPatchVectorField.C \
+MMASolver.cpp 
